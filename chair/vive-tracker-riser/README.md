@@ -4,11 +4,19 @@
 
 Version 1.1
 
+## Photos
+
+![](images/vive-tracker-riser-cad-01.jpg)
+![](images/vive-tracker-riser-20200506_133158.jpg)
+![](images/vive-tracker-riser-20200506_133254.jpg)
+
 ## Description
 
-This is the mount that attaches a Vive Tracker to a racing chair that contains shoulder harness slots. It raises the Vive Tracker above the chair by 5 inches (127 mm) so that the tracker never loses line of sight with the lighthouses, which can be important for tall riders.
+This is the mount that attaches a Vive Tracker to a racing chair that has shoulder harness slots.
 
-The Velcro straps keep it pretty sturdy, plenty good for motion cancellation. The only time when the tracker might move inappropriately is if the rider's head touches the mount. I generally don't experience this when riding.
+**It raises the Vive Tracker above the chair by 5 inches (127 mm)** so that the tracker never loses line of sight with the lighthouses, which can be important for tall riders.
+
+The Velcro straps keep it pretty sturdy: good enough for motion cancellation. The only time when the tracker might move inappropriately is if the rider's head touches the mount. I generally don't experience this when riding.
 
 The mount prints in two parts without needing any supports or glue to assemble.
 
@@ -20,8 +28,7 @@ The stabilizer pin is optional. I broke mine pretty early on and it mounts just 
 
 ## Parts required:
 
-- Velcro cable ties.
-  - Either of these will work. If you use the shorter cable ties, you can chain them together by threading it through the hole and pressing them flat.
+- Velcro cable ties, or some other strap/cable system to keep the riser secure. Either of the following Velcro ties will work. If you use the shorter cable ties, you can chain them together by threading it through the hole and pressing them flat. I use one long and one short cable tie per loop when I installed them.
   - [VELCRO ONE-WRAP Thin Ties | 100 qty | 8 x 1/2"](https://www.amazon.com/gp/product/B001E1Y5O6/)
   - [VELCRO ONE-WRAP Thin Ties | 30 qty | 15 x 1/2"](https://www.amazon.com/gp/product/B003WB6MYM/)
 - 1/4" threaded screw knob
